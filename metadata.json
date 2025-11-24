@@ -1,0 +1,5 @@
+{
+  "name": "MathGenius - AI口算生成器",
+  "description": "基于Google Gemini的智能口算习题生成器。支持小学1-6年级全覆盖，自动生成PDF/Word试卷与答案页。",
+  "requestFramePermissions": []
+}
